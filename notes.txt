@@ -1,0 +1,9 @@
+Features:
+    Outline all the behaviors your application will have.
+    Create a Player class for both players.
+    Draw the tic tac toe grid and update it when users play on a side.
+    Create unit tests for all the behaviors.
+    Create doc-strings for the modules, functions and methods
+
+Rules: 
+    http://web.cecs.pdx.edu/~bart/cs541-fall2001/homework/tictactoe-rules.html
